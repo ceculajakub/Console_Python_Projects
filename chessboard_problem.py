@@ -51,7 +51,7 @@ def path_check(tab, r, c, pos):
 
 if __name__ == '__main__':
 
-    # example of an array which meets the conditions
+    # example of a list which meets the conditions
     tab = [
         [1, 4, 6, 2, 3, 5, 35, 2],
         [1, 4, 6, 2, 3, 5, 35, 2],

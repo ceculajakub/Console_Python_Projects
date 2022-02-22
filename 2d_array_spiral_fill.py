@@ -1,6 +1,6 @@
 # Funkcja wypełniająca tablicę dwuwymiarową kolejnymi liczbami nautralnymi przy użyciu schematu spirali.
 
-def spiral(tab,n): # n - array size
+def spiral(tab,n): # n - list size
 
     Top = 0
     Bottom = n-1
@@ -73,7 +73,7 @@ def spiral(tab,n): # n - array size
 
 if __name__ == '__main__':
 
-    n = int(input("Please enter demanded size of an array: "))
+    n = int(input("Please enter demanded size of a list: "))
 
     tab = [None] * n
 
