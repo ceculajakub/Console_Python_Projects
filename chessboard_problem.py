@@ -5,9 +5,6 @@
 # pierwszej cyfy liczby przypisanej do pola docelowego.
 # Funkcja ta sprawdza czy dla podanej szachownicy istnieje taka droga.
 
-import random
-
-
 
 def first_number(n):
     while n > 9:
